@@ -15,7 +15,7 @@ foaf:primaryTopic <#bob> .
 <#bob>
 a foaf:Person ;
 foaf:name "Bob" ;
-foaf:depiction <https://www.linkpicture.com/view.php?img=LPic6279c37be607b454875412> ;
+foaf:depiction <https://www.linkpicture.com/q/silhoutman.png> ;
 gr:seeks <product.ttl#CoolRedCar> ;
 foaf:knows <doc2.ttl#alice> ;
 wdrs:describedby <> .
