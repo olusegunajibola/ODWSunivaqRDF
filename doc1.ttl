@@ -15,7 +15,7 @@ foaf:primaryTopic <#bob> .
 <#bob>
 a foaf:Person ;
 foaf:name "Bob" ;
-foaf:depiction <https://en.silhouette-ac.com/silhouette/112856/businessman> ;
+foaf:depiction <https://pin.it/6k8blso> ;
 gr:seeks <product.ttl#CoolRedCar> ;
 foaf:knows <doc2.ttl#alice> ;
 wdrs:describedby <> .
