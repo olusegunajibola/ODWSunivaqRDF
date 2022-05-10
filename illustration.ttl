@@ -1,0 +1,17 @@
+{
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ns4: <http://kingsley.idehen.net/dataspace/person/kidehen#> .
+@prefix ldp: <http://www.w3.org/ns/ldp#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix gr:  <http://purl.org/goodrelations/v1#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+<>
+a foaf:Document ;
+foaf:name "A Document about illustrating a simple Linked Data Deployment exercise" ;
+dcterms:description "A collection of RDF sentences that describe a Linked Data Deployment exercise" ;
+foaf:depiction <http://kingsley.idehen.net/DAV/home/kidehen/Public/Linked%20Data%20Documents/Tutorials/slide38_linked_data_network_v2_SPO%20_latest_relative_uris.png> ;
+foaf:topic <GlossaryOfTerms.ttl>, <doc1.ttl>, <doc2.ttl>, <product.ttl>, <org.ttl> .
+}
