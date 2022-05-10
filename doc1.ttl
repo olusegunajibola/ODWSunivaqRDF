@@ -15,7 +15,7 @@ foaf:primaryTopic <#bob> .
 <#bob>
 a foaf:Person ;
 foaf:name "Bob" ;
-foaf:depiction <https://pin.it/6k8blso> ;
+foaf:depiction <http://cliparts.co/clipart/2333223> ;
 gr:seeks <product.ttl#CoolRedCar> ;
 foaf:knows <doc2.ttl#alice> ;
 wdrs:describedby <> .
